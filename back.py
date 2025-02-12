@@ -1,7 +1,7 @@
 import qrcode
 
 # Backend URL
-backend_url = "http://your-backend-url/random-image"
+backend_url = "https://ingeniumproject-production.up.railway.app/random-image"
 
 # Generate QR Code
 qr = qrcode.QRCode(

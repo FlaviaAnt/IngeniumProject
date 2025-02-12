@@ -12,7 +12,7 @@ images = [
     "https://iyvhuslpradevwbdimbd.supabase.co/storage/v1/object/sign/Nature%20massages/img5.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJOYXR1cmUgbWFzc2FnZXMvaW1nNS5wbmciLCJpYXQiOjE3MzkzNjI4MjQsImV4cCI6MTczOTk2NzYyNH0.gteGGhCa2PAUfgi7pIWOmVQdYDxrQiz5QaBMnYGSjcQ",
     "https://iyvhuslpradevwbdimbd.supabase.co/storage/v1/object/sign/Nature%20massages/img6.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJOYXR1cmUgbWFzc2FnZXMvaW1nNi5wbmciLCJpYXQiOjE3MzkzNjI4MzUsImV4cCI6MTczOTk2NzYzNX0.k8mOF0GCUeRV4DUHl7Jd45ymswG2fqPi_cCFWio4g4s",
     "https://iyvhuslpradevwbdimbd.supabase.co/storage/v1/object/sign/Nature%20massages/img7.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJOYXR1cmUgbWFzc2FnZXMvaW1nNy5wbmciLCJpYXQiOjE3MzkzNjI4NDMsImV4cCI6MTczOTk2NzY0M30.MlR6C13z9pEQ5OshrEnPx60ypKt9eNDDyJiT-eXHjuY",
-    "https://iyvhuslpradevwbdimbd.supabase.co/storage/v1/object/sign/Nature%20massages/img8.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJOYXR1cmUgbWFzc2FnZXMvaW1nOC5wbmciLCJpYXQiOjE3MzkzNjI4NTksImV4cCI6MTczOTk2NzY1OX0.3jvTi4xWf0vMxGA8G86LZbdKe1h2tK8EYv8Y4_PkK_k"
+    ""
 ]
 
 @app.route('/random-image', methods=['GET'])
